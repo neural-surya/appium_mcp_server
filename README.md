@@ -168,3 +168,7 @@ appium_mcp_server/
 ## License
 
 MIT
+
+https://github.com/user-attachments/assets/3f1f563f-1e60-4291-abd6-27326304840e
+
+
